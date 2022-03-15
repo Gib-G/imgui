@@ -123,3 +123,5 @@ namespace ImGui
     void MyFunction(const char* name, const MyMatrix44& v);
 }
 */
+
+#include <imconfig-SFML.h>
